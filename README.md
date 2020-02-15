@@ -1,4 +1,4 @@
-# TheLogoDB
+# Updated
 Source images from the now defunct TheLogoDB website. 
 
 There should be 3,000+ images and they will be updated periodically.
